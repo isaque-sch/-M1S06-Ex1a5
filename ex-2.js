@@ -1,0 +1,1 @@
+//É usado o exemplo das promessas da vida real, sendo resolvida ou não (resolve, reject). São usadas em bibliotecas, APIs ou cria-las e logo fazer seu uso

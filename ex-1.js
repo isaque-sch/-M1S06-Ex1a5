@@ -1,0 +1,1 @@
+//Escopos síncronos o JavaScript faz a chamada imediatamente e os assíncronos podemos fazer com que leve algum tempo determinado para serem executadas.
